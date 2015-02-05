@@ -1,8 +1,8 @@
 package com.hendrix.collection.common.interfaces
 {
-	public interface IData
-	{
-		function get data(): 							Object;
-		function set data(value: Object): void;
-	}
+  public interface IData
+  {
+    function get data():              Object;
+    function set data(value: Object): void;
+  }
 }
