@@ -13,3 +13,6 @@ Data structure collection library for AiR/AS3
 
 ## How to use
 consult the source code for usage guidance, which is straight forward.
+
+### Contact
+[tomer.shalev@gmail.com](tomer.shalev@gmail.com)
